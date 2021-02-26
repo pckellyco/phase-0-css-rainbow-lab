@@ -15,15 +15,15 @@ div {
 }
 
 #orange { /* this selects any elements with the orange id */
-  border-top-color: #f00;
-}
-
-#yellow { /* this selects any elements with the yellow id */
   border-top-color: #ffa500;
 }
 
-#green { /* this selects any elements with the green id */
+#yellow { /* this selects any elements with the yellow id */
   border-top-color: #ff0;
+}
+
+#green { /* this selects any elements with the green id */
+  border-top-color: #00bc3f;
 }
 
 #blue { /* this selects any elements with the blue id */
